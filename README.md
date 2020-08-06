@@ -1,4 +1,4 @@
-Epileptic Seizure Recognition
+Predicting Epileptic Cases with Application of Machine Learning Algorithms on EEG Data
 =========
 
 **Note: You can see the outputs of the codes, visualizations and explanations in the HTML document**
